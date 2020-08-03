@@ -1,6 +1,6 @@
 # Hi,
 ## I am Samiruddin Thunder 👋
-I am a 3rd year undergrad student of Computer Science and Engineering at Institute of Engineering and Management. I am a Computer Graphics and Machine Learning enthusiast. And I love to do graphics designing.
+I am a 3rd year undergrad student of Computer Science and Engineering at Institute of Engineering and Management. I am a Computer Graphics and Machine Learning enthusiast. And I love to do graphics designing⚡.
 <br/>
 <br/>
 
@@ -24,12 +24,9 @@ I am a 3rd year undergrad student of Computer Science and Engineering at Institu
 <br/>
 <br/>
 
----
-
-
 ![Samiruddin Thunder' Github Stats](https://github-readme-stats.vercel.app/api?username=samir2901&show_icons=true&hide-border=true&theme=dracula)
 
-
+---
 
 ###  Connect with me
 [<img align="left" alt="thunder-portfolio.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
