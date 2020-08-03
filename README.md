@@ -27,7 +27,7 @@ I am a 3rd year undergrad student of Computer Science and Engineering at Institu
 ---
 
 
-![Samiruddin Thunder' Github Stats](https://github-readme-stats.vercel.app/api?username=samir2901&show_icons=true&hide-border=true)
+![Samiruddin Thunder' Github Stats](https://github-readme-stats.vercel.app/api?username=samir2901&show_icons=true&hide-border=true&theme=dracula)
 
 
 
