@@ -7,11 +7,11 @@ I am a 3rd year undergrad student of Computer Science and Engineering at Institu
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Visual Studio" width="26px" src="https://png2.cleanpng.com/sh/fcdbb20bdf6180e34330b2f5f179a0dd/L0KzQYm3VMA0N5J9fZH0aYP2gLBuTfNwdaF6jNd7LXnmf7B6Tf1qa6N0i9HvdD35ecT8gfwue6V6fNt4LYbsg8bojL10fKZpRdtsbz24cbS6U8E1OZZofNYDNT65RIOBUcg5QGI6SqQCNEG4RoqCV8AzNqFzf3==/kisspng-computer-icons-microsoft-visual-studio-visual-stud-ico-5ac33141ecdd85.6428188815227415699702.png" />][website]
+[<img width="26px" align="left" alt="VS" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/>][website]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-[<img align="left" alt="C#" width="26px" src="https://png2.cleanpng.com/sh/30bcade322cf8c64e5a9c1f8183bc14f/L0KzQYm3WMMyN6ZtipH0aYP2gLBuTfMueKN0fARqbX3sfri0jPFvb6Zmf9c2bHBqf370ifNzd6R0fuY2dnn2hbLzTgN1fZUyeeZ1YYOwgLF5lPZwdJp0RadrOEm8QYq5hMdkPmE1RqMBMki4R4K4UcU0PWg5SqUANEi7Q4m1kP5o/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" />][website]
-[<img align="left" alt="Unity" width="30px" src="https://png2.cleanpng.com/sh/e23062b6e4eea7bad296ef2379da0368/L0KzQYm3VsEzN6hripH0aYP2gLBuTgVvcaVARdlqbXWwdbBuif5mNWNpRdV4bYD4hLb5TfdzaaFtgdV8LXHxdMP2ifQufpppRed3aYT8PYPrTcVjOZc9UdVvYUO3QIS7TskzPGo7TKgDMUW1SIiCU8U2OWc7UKk3cH7q/kisspng-unity-game-engine-2d-computer-graphics-android-vid-unity-2d-5b1f89cfa34034.9249646815287935516687.png" />][website]
-[<img align="left" alt="C" width="26px" src="https://png2.cleanpng.com/sh/07366edbcebaae5a9b71c403751613f2/L0KzQYi4UsE4N5M5fJGAYUO5SYa7hMQxapZmSpC5N0O4Q4S9VsE2OWQ6SqgBMEW1Roa5TwBvbz==/5a36954d40bea2.0735336615135266052652.png" />][website]
+[<img width="26px" align="left" alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>][website]
+[<img align="left" alt="Unity" width="30px" alt="Unity" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />][website]
+[<img width="26px" align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
