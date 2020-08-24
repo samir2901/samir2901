@@ -42,7 +42,7 @@ I am a 3rd year undergrad student of Computer Science and Engineering at Institu
 
 
 [website]: https://thunder-portfolio.herokuapp.com/
-[youtube]: https://www.youtube.com/channel/UCoZ6yD1RFMoX1IMCboQVMDQ
+[youtube]: https://www.youtube.com/channel/UC_qxEvodGYjm8CYcf9qQtOw
 [itchio]: https://thundersam.itch.io
 [facebook]:https://www.facebook.com/samiruddin.thunder.5
 [instagram]: https://www.instagram.com/samthunder2901
