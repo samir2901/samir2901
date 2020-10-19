@@ -1,6 +1,6 @@
 # Hi,
 ## I am Samiruddin Thunder 👋
-I am a 3rd year undergrad student of Computer Science and Engineering at Institute of Engineering and Management. I am a Computer Graphics and Machine Learning enthusiast. And I love to do graphics designing⚡.
+I am a 3rd year undergrad student of Computer Science and Engineering at Institute of Engineering and Management. I am a Computer Graphics and Game dev enthusiast. And I love to do graphics designing⚡.
 <br/>
 <br/>
 
