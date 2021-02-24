@@ -1,6 +1,5 @@
 # Hi,
-## I am Samiruddin Thunder 👋
-I am a 3rd year undergrad student of Computer Science and Engineering at Institute of Engineering and Management. I am a Computer Graphics and Game dev enthusiast. And I love to do graphics designing⚡.
+I am Samiruddin Thunder 👋, 3rd year undergrad student of Computer Science and Engineering at Institute of Engineering and Management. I am a Computer Graphics and Game dev enthusiast. 
 <br/>
 <br/>
 
@@ -12,19 +11,10 @@ I am a 3rd year undergrad student of Computer Science and Engineering at Institu
 [<img width="26px" align="left" alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>][website]
 [<img align="left" alt="Unity" width="30px" alt="Unity" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />][website]
 [<img width="26px" align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="p5js" width="26px" src="https://hello.p5js.org/assets/p5-sq-reverse.svg" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 
 <br/>
 <br/>
-
-![Samiruddin Thunder' Github Stats](https://github-readme-stats.vercel.app/api?username=samir2901&show_icons=true&hide-border=true&theme=dracula)
 
 ---
 
